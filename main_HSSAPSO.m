@@ -5,7 +5,7 @@ clear
 close all
 poolobj = parpool;
 %% Parameters
-CostFunction=@(x) one6_Aim_between_pin_and_rigid(x);
+CostFunction=@(x) Namo_bridge(x);
 Max_iter = 100; % Max Iterations
 nPop = 20; % Number of variables
 Boundary=[1.90E11 2.2E11
