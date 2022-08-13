@@ -1,5 +1,6 @@
 % HSSAPSO main function
-% Le Xuan Thang
+% Le Xuan Thang 
+% (supervisor: Hoa Tran)
 clc
 clear
 close all
